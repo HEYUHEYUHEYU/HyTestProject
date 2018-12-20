@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Hello World!");
         /*Cat cat = new Cat();
         cat.setName("CafeCat");
-        cat.setAge(2);
+        cat.setAge(80);
         cat.setColor("brown");
         System.out.println(cat.toString());*/
         System.out.println("注释掉了Cat实例！");

@@ -5,5 +5,5 @@ package heyu;
  */
 public class heyu {
     private String name;
-
+    private String userName;
 }
